@@ -28,6 +28,7 @@
 ### • Многофункциональность
 ### • Нестандартное мышление
 ---
+# Сертификаты:
 ![Nekommerch-2-1485467-ORF](https://user-images.githubusercontent.com/54329999/144024372-7fa43a34-c622-4c52-88f2-4d6cb6defc7b.jpg)
 ![Nekommerch-2-1464524-ORF](https://user-images.githubusercontent.com/54329999/144024398-b6b901b3-e27d-466a-9de8-c2ad55a0c53e.jpg)
 ![Nekommerch-2-1464511-ORF](https://user-images.githubusercontent.com/54329999/144024407-258252df-05d9-4bd9-b12a-a88c64b65979.jpg)
